@@ -10,7 +10,7 @@ This repository contains a single Jupyter Notebook that walks you through data l
 - **Exploratory Data Analysis (EDA)**  
   - Age distributions for perpetrators and victims  
   - Outlier detection  
-  - Temporal trends (deadliest days)  
+  - Deadliest dates 
   - Borough-level breakdowns and weapon-use visualizations  
   - Circumstance analysis of victims and perps
 - **Dimensionality Reduction (PCA) and Cluster Analysis**  
