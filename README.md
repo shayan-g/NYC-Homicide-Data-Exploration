@@ -1,6 +1,6 @@
 # NYC Homicide Data Exploration using Python
 
-A concise, end‐to‐end exploration of New York City’s 2022 homicide dataset. This repository contains a single Jupyter Notebook that walks you through data loading, cleaning, visualization, dimensionality reduction, clustering, and interpretations.
+This repository contains a single Jupyter Notebook that walks you through data loading, cleaning, visualization, dimensionality reduction, clustering, and interpretations.
 
 **What you’ll find inside:**
 - **Data Prep**  
